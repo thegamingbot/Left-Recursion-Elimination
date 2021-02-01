@@ -3,7 +3,7 @@ A python GUI application that eliminates Left Recursion, if any in the given gra
 
 ## Usage
 - ```bash setup.sh```
-- ```python3 game.py```
+- ```python3 main.py```
 
 ## Technologies used
 - Python3.
